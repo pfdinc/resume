@@ -1,5 +1,5 @@
 # Pushkin Feleke
-**Email:** felekep@cwu.edu
+**Email:** felekep@cwu.edu<br/>
 **Phone:** (206) 566-4191
 
 ## ***Objective***

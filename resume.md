@@ -38,7 +38,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 
 ---
  
-***Project Title: GameDay*** - *(Group Project)*
+***Project Title: GameDay*** - *(Group Project)*<br />
 ***Project Location:*** [gameDay ](http://connect5.online)
 <br /> ***GitHub Location:*** [GitHub ](https://github.com/pfdinc/gmaeday/tree/master)
 <br /> ***Programs Used:*** HTML, CSS, JavaScript, jQuery, Node.js and MongoDB

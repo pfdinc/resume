@@ -48,5 +48,9 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 - Created a real-time connection and unique player id using Socket
 
 ---
+### Favorite Quote
+> "Nothing is impossible, the word itself says “I’m possible”!" —Audrey Hepburn 
+
+---
 
           Pushkin Feleke | felekep@cwu.edu | (206) 566-4191 | github.com/pfdinc | linkedin.com/in/pfdinc

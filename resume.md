@@ -24,26 +24,30 @@ An employment opportunity for a position related to my fields   of specializatio
 
 ## ****Personal Project****
 
-**Project Title** 
+**Project Title**
+```
 Linear / Quadratic Discriminant Analysis
-
+```
 **Tools Used**
+```
 *	C#, WinForms, Markdown, Visual Studios 2012
-
+```
 **GitHub Location** 
 https://github.com/pfdinc/discriminant-_analysis_C_sharp
 
-**Project Description** 
+**Project Description**
+```
 *	Linear / Quadratic Discriminant Analysis is a method used in statistic, pattern recognition and machine learning. 
 *	An algorithm dedicated to dimensionality reduction and also separation of two more classes. 
 *	This program evaluates the accuracy from human vs machine when discriminating two or more classes.   
-
-**Technical Description** 
+```
+**Technical Description**
+```
 *	Designed to perform with Windows 7+ 32/64 bit
 *	C# WinForms for visual and created a custom web browser with the application. 
 *	Created a file system that inputs data from a .csv file into the application graph and outputs separate .csv file for the results. 
 *	Allowed interaction with graph using various C# library. 
-
+```
 
 ## ****Group Project****
 

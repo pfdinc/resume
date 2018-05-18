@@ -112,7 +112,7 @@ Central Washington University – Ellensburg, WA </br>
 Software Development Engineer
 
 **Employer** </br>
-SuitWiz – Seattle, WA </br>
+SuitWiz / Tsehay Collection – Seattle, WA </br>
  02/2012 – 06/2016
 
 **Project Description** </br>

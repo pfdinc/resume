@@ -157,8 +157,8 @@ cellForHelp / Red Cross – Seattle, WA</br>
 
 ## ***Extracurricular Involvement/Skills*** 
 
-**Black Student Union**
-Central Washington University – Ellensburg, WA
+**Black Student Union** </br>
+Central Washington University – Ellensburg, WA </br>
 September 2014 – March 2018
 
 **Duties**

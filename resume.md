@@ -41,13 +41,11 @@ Linear/Quadratic Discriminant Analysis
 [Link to github file](https://github.com/pfdinc/discriminant-_analysis_C_sharp)
 
 **Project Description** <br/>
-
 *	Linear / Quadratic Discriminant Analysis is a method used in statistic, pattern recognition and machine learning. 
 *	An algorithm dedicated to dimensionality reduction and also separation of two more classes. 
 *	This program evaluates the accuracy from human vs machine when discriminating two or more classes.   
 
 **Technical Description** <br/>
-
 *	Designed to perform with Windows 7+ 32/64 bit
 *	C# WinForms for visual and created a custom web browser with the application. 
 *	Created a file system that inputs data from a .csv file into the application graph and outputs separate .csv file for the results. 
@@ -65,7 +63,6 @@ GameDay- (Group Project)
 **GitHub Location** <br/>
 [Link to game](http://connect5.online)
 
-
 **Project Location**  <br/>
 [Link to github file](https://github.com/pfdinc/gmaeday)
 
@@ -81,7 +78,6 @@ GameDay- (Group Project)
 *	Participated in the design and implementation as part of a team 
 
 ## ***Recent Work Experience*** 
-
 
 **Job Title** </br>
 Teaching Assistance for Data Structure & 
@@ -155,7 +151,6 @@ cellForHelp / Red Cross – Seattle, WA</br>
 *	Worked closely with Red Cross team to apply charity policy to the web program.  
 *	Conducted Black Box & White Box testing 
 *	Write a unit test based on functional specifications.
-
 
 ## ***Extracurricular Involvement/Skills*** 
 

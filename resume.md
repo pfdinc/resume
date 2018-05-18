@@ -1,8 +1,8 @@
 # Pushkin Feleke 
  **Computer Software Engineer** <br/><br/>
 <img src="https://github.com/pfdinc/resume/blob/master/26165267_10159691497420702_1912762625515974678_n-1.png" title="Pushkin Feleke" width="256" height="256">  <br/>
-
-
+[Click here to view PDF version of my resume](https://github.com/pfdinc/resume/blob/master/pushkin.feleke.resume4.pdf)
+[Click here to Download PDF version of my resume](https://github.com/pfdinc/resume/blob/master/pushkin.feleke.resume4.pdf)
 <br/><br/>
  **Computer Software Engineer** 
 **Email:** pfdinc@gmail.com <br/>
@@ -38,7 +38,7 @@ Linear/Quadratic Discriminant Analysis
 *	C#, WinForms, Markdown, Visual Studios 2012
 
 **GitHub Location** <br/>
-[Click Here to see Linear/Quadratic Discriminant Analysis](https://github.com/pfdinc/discriminant-_analysis_C_sharp)
+[Link to github file](https://github.com/pfdinc/discriminant-_analysis_C_sharp)
 
 **Project Description** <br/>
 
@@ -63,11 +63,11 @@ GameDay- (Group Project)
 *	HTML, CSS, JavaScript, jQuery, Node.js and MongoDB 
 
 **GitHub Location** <br/>
-[Click Here to see game](http://connect5.online)
+[Link to game](http://connect5.online)
 
 
 **Project Location**  <br/>
-[Click Here to see github file](https://github.com/pfdinc/discriminant-_analysis_C_sharp)
+[Link to github file](https://github.com/pfdinc/discriminant-_analysis_C_sharp)
 
 **Project Description** <br/>
 *	Inspired by the popular game “5ive Straight” played on a 10x10 game board.  

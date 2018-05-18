@@ -1,10 +1,8 @@
 # Pushkin Feleke 
  **Computer Software Engineer** <br/><br/>
 <img src="https://github.com/pfdinc/resume/blob/master/26165267_10159691497420702_1912762625515974678_n-1.png" title="Pushkin Feleke" width="256" height="256">  <br/>
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/pfdinc" aria-label="Follow @pfdinc on GitHub">Follow @pfdinc</a>
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
 <br/><br/>
  **Computer Software Engineer** 
 **Email:** pfdinc@gmail.com <br/>
@@ -34,13 +32,13 @@ An employment opportunity for a position related to my fields   of specializatio
 ## ****Personal Project****
 
 **Project Title** <br/>
-Linear / Quadratic Discriminant Analysis
+Linear/Quadratic Discriminant Analysis
 
 **Tools Used** <br/>
 *	C#, WinForms, Markdown, Visual Studios 2012
 
 **GitHub Location** <br/>
-https://github.com/pfdinc/discriminant-_analysis_C_sharp
+[Click Here to see Linear/Quadratic Discriminant Analysis](https://github.com/pfdinc/discriminant-_analysis_C_sharp)
 
 **Project Description** <br/>
 
@@ -65,10 +63,11 @@ GameDay- (Group Project)
 *	HTML, CSS, JavaScript, jQuery, Node.js and MongoDB 
 
 **GitHub Location** <br/>
-http://connect5.online
+[Click Here to see game](http://connect5.online)
+
 
 **Project Location**  <br/>
-https://github.com/pfdinc/discriminant-_analysis_C_sharp
+[Click Here to see github file](https://github.com/pfdinc/discriminant-_analysis_C_sharp)
 
 **Project Description** <br/>
 *	Inspired by the popular game “5ive Straight” played on a 10x10 game board.  

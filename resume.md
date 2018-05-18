@@ -78,7 +78,7 @@ Teaching Assistance for Data Structure &
 Java/C++ Programming Concepts
 
 **Employer**
-Central Washington University – Ellensburg, WA 
+Central Washington University – Ellensburg, WA </br>
  (01/2017 – 06/2017)
 
 **Job Description**
@@ -91,7 +91,7 @@ Central Washington University – Ellensburg, WA
 Computer Science & Mathematics Tutor 
 
 **Employer** 
-Central Washington University – Ellensburg, WA
+Central Washington University – Ellensburg, WA </br>
 (09/2016 – 06/2017)
 
 **Job Description**
@@ -104,7 +104,7 @@ Central Washington University – Ellensburg, WA
 Software Development Engineer
 
 **Employer**
-SuitWiz – Seattle, WA 
+SuitWiz – Seattle, WA </br>
  02/2012 – 06/2016
 
 **Project Description**
@@ -122,9 +122,46 @@ SuitWiz – Seattle, WA
 *	Wrote a unit test based on functional specifications.
 *	Wrote documentation and design of code to ensure readability and maintainability.
 
+**Job Title** </br>
+**Volunteer**</br>
+Software Development Engineer 
+Project Manager     
+
+**Employer**</br>
+cellForHelp / Red Cross – Seattle, WA</br>
+01/2010 – 08/2012
+
+**Project Description**
+*	Presented a unique method of gathering donations to the Red Cross. This unique method implies that rather than people   donating money, they would donate cellphones which later transferred to money.      
+*	Created a web application to helped Red Cross gather funds from donors to help those effected by 2010 Haiti earthquake.   
+**Job Description**
+*	Developed a web application using C#, HTML, CSS, JavaScript
+*	Developed an email service using Java Mail API which automatically notified Red Cross of donations. 
+*	Create new Database tables with MySQL. 
+*	Worked closely with Red Cross team to apply charity policy to the web program.  
+*	Conducted Black Box & White Box testing 
+*	Write a unit test based on functional specifications.
 
 
+## ***Extracurricular Involvement/Skills*** 
 
+**Black Student Union**
+Central Washington University – Ellensburg, WA
+September 2014 – March 2018
+
+**Duties**
+*	Assist new students from different cultural backgrounds
+*	Create weekly meetings for students to discuss current local issues
+*	Provide information to students regarding current school topics and scholarship opportunities
+
+**ECMA Recreational Leader**
+Ethiopian Community Mutual Association, Seattle, WA </br>
+February 2003 – Current  
+
+**Duties**
+*	Proactive in activities involving mentorship and guidance for the youth
+*	Fluently speak Amharic (Ethiopian language)
+*	Provide translation services for new immigrants
 
 ### Favorite Quote
 > "Nothing is impossible, the word itself says “I’m possible”!" —Audrey Hepburn 

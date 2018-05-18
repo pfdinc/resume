@@ -152,7 +152,7 @@ cellForHelp / Red Cross – Seattle, WA</br>
 
 
 ## ***Extracurricular Involvement/Skills*** 
-***
+
 **Black Student Union**
 Central Washington University – Ellensburg, WA
 September 2014 – March 2018
@@ -175,6 +175,6 @@ February 2003 – Current
 ### Favorite Quote
 > "Nothing is impossible, the word itself says “I’m possible”!" —Audrey Hepburn 
 
----
 
-          Pushkin Feleke | felekep@cwu.edu | (206) 566-4191 | github.com/pfdinc | linkedin.com/in/pfdinc
+
+          Pushkin Feleke | pfdinc@gmail.com | (206) 566-4191 | github.com/pfdinc | linkedin.com/in/pfdinc

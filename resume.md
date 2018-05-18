@@ -12,7 +12,8 @@ An employment opportunity for a position related to my fields   of specializatio
     Apache Spark, Scala 
 - **Operating Systems:**  OSX, Window, Linux (*Ubuntu*)
 - **Foreign language:** Fluent in Amharic (*Ethiopian*)
-### ****Education****
+
+## ****Education****
  - ***Central Washington University***, *Ellensburg WA* <br/>
      *Bs. Computer Science (2015 - 2017)*
 
@@ -21,6 +22,7 @@ An employment opportunity for a position related to my fields   of specializatio
 | Data Structure Concepts     | Logic Circuits| Foundations of Software Engineering |
 | Object Oriented Programming     | File Structure and Database System     |   Web Programming |
 | Computer Architecture | UI Design     |    Mobile Software Engineering (Android) |
+
 
 ## ****Personal Project****
 
@@ -45,6 +47,7 @@ https://github.com/pfdinc/discriminant-_analysis_C_sharp
 *	C# WinForms for visual and created a custom web browser with the application. 
 *	Created a file system that inputs data from a .csv file into the application graph and outputs separate .csv file for the results. 
 *	Allowed interaction with graph using various C# library. 
+
 
 ## ****Group Project**** <br/>
 
@@ -87,6 +90,7 @@ Central Washington University – Ellensburg, WA </br>
 *	Laboratory management and recordkeeping, such as tracking attendance and calculating grades.
 *	Help teachers prepare for lessons by getting materials ready or setting up equipment, such as computers.
 
+***
 
 **Job Title**
 Computer Science & Mathematics Tutor 
@@ -101,6 +105,7 @@ Central Washington University – Ellensburg, WA </br>
 *	Participate in training and development sessions to improve tutoring practices or learn new tutoring techniques.
 *	Review class material with students by discussing text, working solutions to problems, or reviewing worksheets or other assignments.
 
+*** 
 **Job Title** </br>
 Software Development Engineer
 
@@ -122,6 +127,8 @@ SuitWiz – Seattle, WA </br>
 *	Work closely with QA to troubleshoot problems, triage bugs, analyze root causes and resolve them.
 *	Wrote a unit test based on functional specifications.
 *	Wrote documentation and design of code to ensure readability and maintainability.
+
+***
 
 **Job Title** </br>
 **Volunteer**</br>
@@ -145,7 +152,7 @@ cellForHelp / Red Cross – Seattle, WA</br>
 
 
 ## ***Extracurricular Involvement/Skills*** 
-
+***
 **Black Student Union**
 Central Washington University – Ellensburg, WA
 September 2014 – March 2018
@@ -154,6 +161,7 @@ September 2014 – March 2018
 *	Assist new students from different cultural backgrounds
 *	Create weekly meetings for students to discuss current local issues
 *	Provide information to students regarding current school topics and scholarship opportunities
+
 
 **ECMA Recreational Leader**
 Ethiopian Community Mutual Association, Seattle, WA </br>

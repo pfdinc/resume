@@ -1,7 +1,7 @@
 # Pushkin Feleke 
  **Computer Software Engineer** <br/><br/>
 <img src="https://github.com/pfdinc/resume/blob/master/26165267_10159691497420702_1912762625515974678_n-1.png" title="Pushkin Feleke" width="256" height="256">  <br/>
-[View my Linkedin Profile](linkedin.com/in/pfdinc)<br/>
+[View my Linkedin Profile](http://linkedin.com/in/pfdinc)<br/>
 [View PDF version of my resume](https://github.com/pfdinc/resume/blob/master/pushkin.feleke.resume4.pdf)<br/>
 [Download PDF version of my resume](https://github.com/pfdinc/resume/raw/master/pushkin.feleke.resume4.pdf)<br/><br/>
 

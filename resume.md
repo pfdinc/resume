@@ -1,5 +1,5 @@
 # Pushkin Feleke
-**Email:** pfdinc@gmail.com<br/>
+**Email:** pfdinc@gmail.com <br/>
 **Phone:** (206) 566-4191
 
 ## ****Objective****
@@ -13,7 +13,7 @@ An employment opportunity for a position related to my fields   of specializatio
 - **Operating Systems:**  OSX, Window, Linux (*Ubuntu*)
 - **Foreign language:** Fluent in Amharic (*Ethiopian*)
 ### ****Education****
- - ***Central Washington University***, *Ellensburg WA*
+ - ***Central Washington University***, *Ellensburg WA* <br/>
      *Bs. Computer Science (2015 - 2017)*
 
 |             | Related Concepts    | |      
@@ -24,48 +24,47 @@ An employment opportunity for a position related to my fields   of specializatio
 
 ## ****Personal Project****
 
-**Project Title**
+**Project Title** <br/>
 Linear / Quadratic Discriminant Analysis
 
-**Tools Used**
-
+**Tools Used** <br/>
 *	C#, WinForms, Markdown, Visual Studios 2012
 
-**GitHub Location** 
+**GitHub Location** <br/>
 https://github.com/pfdinc/discriminant-_analysis_C_sharp
 
-**Project Description**
+**Project Description** <br/>
 
 *	Linear / Quadratic Discriminant Analysis is a method used in statistic, pattern recognition and machine learning. 
 *	An algorithm dedicated to dimensionality reduction and also separation of two more classes. 
 *	This program evaluates the accuracy from human vs machine when discriminating two or more classes.   
 
-**Technical Description**
+**Technical Description** <br/>
 
 *	Designed to perform with Windows 7+ 32/64 bit
 *	C# WinForms for visual and created a custom web browser with the application. 
 *	Created a file system that inputs data from a .csv file into the application graph and outputs separate .csv file for the results. 
 *	Allowed interaction with graph using various C# library. 
 
-## ****Group Project****
+## ****Group Project**** <br/>
 
-**Project Title** 
+**Project Title** <br/>
 GameDay- (Group Project)
 
-**Tools Used**
+**Tools Used** <br/>
 *	HTML, CSS, JavaScript, jQuery, Node.js and MongoDB 
 
-**GitHub Location** 
+**GitHub Location** <br/>
 http://connect5.online
 
-**Project Location** 
+**Project Location**  <br/>
 https://github.com/pfdinc/discriminant-_analysis_C_sharp
 
-**Project Description** 
+**Project Description** <br/>
 *	Inspired by the popular game “5ive Straight” played on a 10x10 game board.  
 *	Two player game that is connected with a unique key that allows players to interact remotely.   
 
-**Technical Description** 
+**Technical Description** <br/>
 *	Used Bootstrap framework for front-end design and JavaScript to create an interactive game board. 
 *	MongoDB was used for the database.
 *	SOCKET.IO was applied to create a real-time connection for player one and player two. 

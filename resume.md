@@ -163,7 +163,7 @@ September 2014 – March 2018
 *	Provide information to students regarding current school topics and scholarship opportunities
 
 
-**ECMA Recreational Leader**
+**ECMA Recreational Leader** </br>
 Ethiopian Community Mutual Association, Seattle, WA </br>
 February 2003 – Current  
 
@@ -172,7 +172,7 @@ February 2003 – Current
 *	Fluently speak Amharic (Ethiopian language)
 *	Provide translation services for new immigrants
 
-### Favorite Quote
+### ***Favorite Quote***
 > "Nothing is impossible, the word itself says “I’m possible”!" —Audrey Hepburn 
 
 

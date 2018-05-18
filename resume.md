@@ -162,6 +162,7 @@ September 2014 – March 2018
 *	Create weekly meetings for students to discuss current local issues
 *	Provide information to students regarding current school topics and scholarship opportunities
 
+***
 
 **ECMA Recreational Leader** </br>
 Ethiopian Community Mutual Association, Seattle, WA </br>

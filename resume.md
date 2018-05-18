@@ -1,5 +1,5 @@
 # Pushkin Feleke  <br/>
-![avatar](https://github.com/pfdinc/resume/blob/master/26165267_10159691497420702_1912762625515974678_n-1.png =50x50)  <br/>
+<img src="https://github.com/pfdinc/resume/blob/master/26165267_10159691497420702_1912762625515974678_n-1.png" title="Pushkin Feleke">  <br/>
 **Email:** pfdinc@gmail.com <br/>
 **Phone:** (206) 566-4191
 

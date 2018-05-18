@@ -136,7 +136,7 @@ SuitWiz – Seattle, WA </br>
 
 **Job Title** </br>
 **Volunteer**</br>
-Software Development Engineer 
+Software Development Engineer </br>
 Project Manager     
 
 **Employer**</br>

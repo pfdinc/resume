@@ -3,6 +3,8 @@
 <img src="https://github.com/pfdinc/resume/blob/master/26165267_10159691497420702_1912762625515974678_n-1.png" title="Pushkin Feleke" width="256" height="256">  <br/>
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/pfdinc" aria-label="Follow @pfdinc on GitHub">Follow @pfdinc</a>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 <br/><br/>
  **Computer Software Engineer** 
 **Email:** pfdinc@gmail.com <br/>

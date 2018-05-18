@@ -65,7 +65,7 @@ GameDay- (Group Project)
 
 
 **Project Location**  <br/>
-[Link to github file](https://github.com/pfdinc/discriminant-_analysis_C_sharp)
+[Link to github file](https://github.com/pfdinc/gmaeday)
 
 **Project Description** <br/>
 *	Inspired by the popular game “5ive Straight” played on a 10x10 game board.  

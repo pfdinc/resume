@@ -172,6 +172,7 @@ February 2003 – Current
 *	Proactive in activities involving mentorship and guidance for the youth
 *	Fluently speak Amharic (Ethiopian language)
 *	Provide translation services for new immigrants
+*** 
 
 ### ***Favorite Quote***
 > "Nothing is impossible, the word itself says “I’m possible”!" —Audrey Hepburn 

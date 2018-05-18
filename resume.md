@@ -4,7 +4,6 @@
 [View PDF version of my resume](https://github.com/pfdinc/resume/blob/master/pushkin.feleke.resume4.pdf)<br/>
 [Download PDF version of my resume](https://github.com/pfdinc/resume/raw/master/pushkin.feleke.resume4.pdf)<br/>
 <br/><br/>
- **Computer Software Engineer** 
 **Email:** pfdinc@gmail.com <br/>
 **Phone:** (206) 566-4191
 ## ****Objective****

@@ -22,6 +22,8 @@ An employment opportunity for a position related to my fields   of specializatio
 | Object Oriented Programming     | File Structure and Database System     |   Web Programming |
 | Computer Architecture | UI Design     |    Mobile Software Engineering (Android) |
 
+## ****Personal Project****
+
 **Project Title** 
 Linear / Quadratic Discriminant Analysis
 
@@ -43,48 +45,52 @@ https://github.com/pfdinc/discriminant-_analysis_C_sharp
 *	Allowed interaction with graph using various C# library. 
 
 
+## ****Group Project****
+
+**Project Title** 
+GameDay- (Group Project)
+
+**Tools Used**
+*	HTML, CSS, JavaScript, jQuery, Node.js and MongoDB 
+
+**GitHub Location** 
+http://connect5.online
+
+**Project Location** 
+https://github.com/pfdinc/discriminant-_analysis_C_sharp
+
+**Project Description** 
+*	Inspired by the popular game “5ive Straight” played on a 10x10 game board.  
+*	Two player game that is connected with a unique key that allows players to interact remotely.   
+
+**Technical Description** 
+*	Used Bootstrap framework for front-end design and JavaScript to create an interactive game board. 
+*	MongoDB was used for the database.
+*	SOCKET.IO was applied to create a real-time connection for player one and player two. 
+*	Deployed game using AWS(EC2) 
+*	Participated in the design and implementation as part of a team 
+
+## ***Recent Work Experience*** 
+
+
+**Job Title**
+Teaching Assistance for Data Structure & 
+Java/C++ Programming Concepts
+
+**Employer**
+Central Washington University – Ellensburg, WA 
+ (01/2017 – 06/2017)
+
+**Job Description**
+*	Reinforced lessons presented by teachers and reviewed materials with students one-on-one or in a class room setting. 
+*	Laboratory management and recordkeeping, such as tracking attendance and calculating grades.
+*	Help teachers prepare for lessons by getting materials ready or setting up equipment, such as computers.
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-## ***Recent Experience*** 
-
-***Teaching Assistance for Data Structure & Java Programming Concepts*** *(01/2017 – 06/2017)* <br />  * ***Central Washington University*** - *Ellensburg Washington*
-
-***Computer Science & Mathematics Tutor***, (09/2016 – 06/2017)<br /> * ***Central Washington University*** - *Ellensburg Washington*
-
-## Recent Projects
-***Project Title:  Linear / Quadratic Discriminant Analysis,*** *(v. 1.0 & 1.1)* <br />
-***Programs / IDE Used:*** C#, WinForms, Markdown, Visual Studios 2012 <br />***Project Location:*** [LDA Project Description ](https://github.com/pfdinc/discriminant-_analysis_C_sharp)
-<br />***Project Description:***
-
- - Created a Windows Desktop Application that tests user’s ability to accurately discriminant classes.
- - Created a confusion matrix to display accuracy of the given test.
- - Used picture & and pen class within the C# library to accurately display ordnance to achieve precise calculation.
-
----
- 
-***Project Title: GameDay*** - *(Group Project)*<br />
-***Project Location:*** [gameDay ](http://connect5.online)
-<br /> ***GitHub Location:*** [GitHub ](https://github.com/pfdinc/gmaeday/tree/master)
-<br /> ***Programs Used:*** HTML, CSS, JavaScript, jQuery, Node.js and MongoDB
-<br /> ***Project Description:***
-
-- Created an online version of a popular board game Connect5
-- Created a real-time connection and unique player id using Socket
-
----
 ### Favorite Quote
 > "Nothing is impossible, the word itself says “I’m possible”!" —Audrey Hepburn 
 

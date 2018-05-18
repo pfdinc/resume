@@ -98,14 +98,14 @@ Central Washington University – Ellensburg, WA </br>
 
 ***
 
-**Job Title**
+**Job Title**</br>
 Computer Science & Mathematics Tutor 
 
-**Employer** 
+**Employer** </br>
 Central Washington University – Ellensburg, WA </br>
 (09/2016 – 06/2017)
 
-**Job Description**
+**Job Description**</br>
 *	Monitor student performance or assist students in academic environments, such as classrooms, laboratories, or computing centers.
 *	Travel to students' homes, libraries, or schools to conduct tutoring sessions.
 *	Participate in training and development sessions to improve tutoring practices or learn new tutoring techniques.

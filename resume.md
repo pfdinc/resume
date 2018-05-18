@@ -1,6 +1,7 @@
 # Pushkin Feleke 
  **Computer Software Engineer** <br/><br/>
-<img src="https://github.com/pfdinc/resume/blob/master/26165267_10159691497420702_1912762625515974678_n-1.png" title="Pushkin Feleke" width="256" height="256">  <br/>
+<img src="https://github.com/pfdinc/resume/blob/master/26165267_10159691497420702_1912762625515974678_n-1.png" title="Pushkin Feleke" width="256" height="256">  <br/><br/><br/>
+ **Computer Software Engineer** 
 **Email:** pfdinc@gmail.com <br/>
 **Phone:** (206) 566-4191
 

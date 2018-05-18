@@ -87,6 +87,41 @@ Central Washington University – Ellensburg, WA
 *	Help teachers prepare for lessons by getting materials ready or setting up equipment, such as computers.
 
 
+**Job Title**
+Computer Science & Mathematics Tutor 
+
+**Employer** 
+Central Washington University – Ellensburg, WA
+(09/2016 – 06/2017)
+
+**Job Description**
+*	Monitor student performance or assist students in academic environments, such as classrooms, laboratories, or computing centers.
+*	Travel to students' homes, libraries, or schools to conduct tutoring sessions.
+*	Participate in training and development sessions to improve tutoring practices or learn new tutoring techniques.
+*	Review class material with students by discussing text, working solutions to problems, or reviewing worksheets or other assignments.
+
+**Job Title**
+Software Development Engineer
+
+**Employer**
+SuitWiz – Seattle, WA 
+ 02/2012 – 06/2016
+
+**Project Description**
+*	Created and maintained an application which allowed customer to create custom clothing. 
+
+**Job Description**
+*	Developed a web application using ASP.NET, C#, HTML/HTML 5, CSS2/3, JavaScript/jQuery, SQL Server, and LINQ to SQL. 
+*	Developed set of API to be used by the User interface and Desktop App, that are to be used for a drawing system and   customer registration system.
+*	Created new Database tables and stored procedures. 
+*	Updated and maintain existing Database’s tables and stored procedures.
+*	Updated existing web pages.
+*	Performed development activities with minimal direction.
+*	Work with product management team to understand and satisfy customer requirements.
+*	Work closely with QA to troubleshoot problems, triage bugs, analyze root causes and resolve them.
+*	Wrote a unit test based on functional specifications.
+*	Wrote documentation and design of code to ensure readability and maintainability.
+
 
 
 

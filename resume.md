@@ -73,15 +73,15 @@ https://github.com/pfdinc/discriminant-_analysis_C_sharp
 ## ***Recent Work Experience*** 
 
 
-**Job Title**
+**Job Title** </br>
 Teaching Assistance for Data Structure & 
 Java/C++ Programming Concepts
 
-**Employer**
+**Employer** </br>
 Central Washington University – Ellensburg, WA </br>
  (01/2017 – 06/2017)
 
-**Job Description**
+**Job Description** </br>
 *	Reinforced lessons presented by teachers and reviewed materials with students one-on-one or in a class room setting. 
 *	Laboratory management and recordkeeping, such as tracking attendance and calculating grades.
 *	Help teachers prepare for lessons by getting materials ready or setting up equipment, such as computers.
@@ -100,17 +100,17 @@ Central Washington University – Ellensburg, WA </br>
 *	Participate in training and development sessions to improve tutoring practices or learn new tutoring techniques.
 *	Review class material with students by discussing text, working solutions to problems, or reviewing worksheets or other assignments.
 
-**Job Title**
+**Job Title** </br>
 Software Development Engineer
 
-**Employer**
+**Employer** </br>
 SuitWiz – Seattle, WA </br>
  02/2012 – 06/2016
 
-**Project Description**
+**Project Description** </br>
 *	Created and maintained an application which allowed customer to create custom clothing. 
 
-**Job Description**
+**Job Description** </br>
 *	Developed a web application using ASP.NET, C#, HTML/HTML 5, CSS2/3, JavaScript/jQuery, SQL Server, and LINQ to SQL. 
 *	Developed set of API to be used by the User interface and Desktop App, that are to be used for a drawing system and   customer registration system.
 *	Created new Database tables and stored procedures. 
@@ -131,10 +131,10 @@ Project Manager
 cellForHelp / Red Cross – Seattle, WA</br>
 01/2010 – 08/2012
 
-**Project Description**
+**Project Description** </br>
 *	Presented a unique method of gathering donations to the Red Cross. This unique method implies that rather than people   donating money, they would donate cellphones which later transferred to money.      
 *	Created a web application to helped Red Cross gather funds from donors to help those effected by 2010 Haiti earthquake.   
-**Job Description**
+**Job Description** </br>
 *	Developed a web application using C#, HTML, CSS, JavaScript
 *	Developed an email service using Java Mail API which automatically notified Red Cross of donations. 
 *	Create new Database tables with MySQL. 

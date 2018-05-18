@@ -1,25 +1,62 @@
 # Pushkin Feleke
-**Email:** felekep@cwu.edu<br/>
+**Email:** pfdinc@gmail.com<br/>
 **Phone:** (206) 566-4191
 
-## ***Objective***
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
-## ***Summary of Skills***
+## ****Objective****
+An employment opportunity for a position related to my fields   of specialization, which will serve not only as a career growth but also as a challenge to my profession.
+
+## ****Summary of Skills****
 - **Languages:** C++, C#, Java, JavaScript, Python, HTML, CSS 
-- **Database Systems:**  MYSQL
+- **Database Systems:**  MySQL, MariaDB, SQLite, SPARK
+- **Other:** AWS (EC2, S3, RDS), SOCKET.IO, 
+    Apache Spark, Scala 
 - **Operating Systems:**  OSX, Window, Linux (*Ubuntu*)
 - **Foreign language:** Fluent in Amharic (*Ethiopian*)
-### Education
+### ****Education****
  - ***Central Washington University***, *Ellensburg WA*
-   <br/> *Bs. Computer Science (2015 - 2017)*
- - ***Washington State University***, *Pullman WA* 
-   <br/> *Bs. Computer Engineering (2013 - 2014)*
+     *Bs. Computer Science (2015 - 2017)*
 
-|  Related Course               |  |       
-| ------------- |:-------------:| 
+|             | Related Concepts    | |      
+| ------------- |:-------------:| :-------------:|
 | Data Structure Concepts     | Logic Circuits| Foundations of Software Engineering |
 | Object Oriented Programming     | File Structure and Database System     |   Web Programming |
 | Computer Architecture | UI Design     |    Mobile Software Engineering (Android) |
+
+**Project Title** 
+Linear / Quadratic Discriminant Analysis
+
+**Tools Used**
+*	C#, WinForms, Markdown, Visual Studios 2012
+
+**GitHub Location** 
+https://github.com/pfdinc/discriminant-_analysis_C_sharp
+
+**Project Description** 
+*	Linear / Quadratic Discriminant Analysis is a method used in statistic, pattern recognition and machine learning. 
+*	An algorithm dedicated to dimensionality reduction and also separation of two more classes. 
+*	This program evaluates the accuracy from human vs machine when discriminating two or more classes.   
+
+**Technical Description** 
+*	Designed to perform with Windows 7+ 32/64 bit
+*	C# WinForms for visual and created a custom web browser with the application. 
+*	Created a file system that inputs data from a .csv file into the application graph and outputs separate .csv file for the results. 
+*	Allowed interaction with graph using various C# library. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## ***Recent Experience*** 
 

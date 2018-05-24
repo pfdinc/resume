@@ -1,12 +1,25 @@
 # Pushkin Feleke 
 
-<img src="https://github.com/pfdinc/resume/blob/master/26165267_10159691497420702_1912762625515974678_n-1.png" title="Pushkin Feleke" width="256" height="256">  <br/>
-[View my Linkedin Profile](http://linkedin.com/in/pfdinc)<br/>
-[View PDF version of my resume](https://github.com/pfdinc/resume/blob/master/pushkin.feleke.resume4.pdf)<br/>
-[Download PDF version of my resume](https://github.com/pfdinc/resume/raw/master/pushkin.feleke.resume4.pdf)<br/><br/>
 
-**Email:** pfdinc@gmail.com <br/>
-**Phone:** (206) 566-4191
+
+| |      
+| ------------- |
+| <img src="https://raw.githubusercontent.com/pfdinc/resume/master/26165267_10159691497420702_1912762625515974678_n-1.png" width="250" height="250" /> |
+|***Resume***|
+| [View my resume (PDF)](https://github.com/pfdinc/resume/blob/master/pushkin.feleke.resume4.pdf)| 
+|[Download my resume (PDF)](https://github.com/pfdinc/resume/raw/master/pushkin.feleke.resume4.pdf)|
+|**Contact Information**|
+| ***Email:*** pfdinc@gmail.com|
+| ***Phone:*** (206) 566-4191|
+|***LinkedIn:*** [Click Here](http://linkedin.com/in/pfdinc)|
+|***GitHub:*** [Click Here](http://github.com/pfdinc)|
+  
+
+
+
+
+
+
 ## ****Objective****
 An employment opportunity for a position related to my fields   of specialization, which will serve not only as a career growth but also as a challenge to my profession.
 
@@ -171,7 +184,7 @@ February 2003 – Current
 
 **Duties**
 *	Proactive in activities involving mentorship and guidance for the youth
-*	Fluently speak Amharic (Ethiopian language)
+*	Teach Amharic (Ethiopian language)
 *	Provide translation services for new immigrants
 *** 
 
@@ -180,4 +193,3 @@ February 2003 – Current
 
 
 
-          Pushkin Feleke | pfdinc@gmail.com | (206) 566-4191 | github.com/pfdinc | linkedin.com/in/pfdinc

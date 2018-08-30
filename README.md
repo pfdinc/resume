@@ -132,7 +132,7 @@ SuitWiz / Tsehay Collection – Seattle, WA </br>
 *	Created and maintained an application which allowed customer to create custom clothing. 
 
 **Job Description** </br>
-*	Developed a web application using ASP.NET, C#, HTML/HTML 5, CSS2/3, JavaScript/jQuery, SQL Server, and LINQ to SQL. 
+*	Developed a web application using ASP.NET, C#, HTML/HTML 5, CSS2/3, Java, JavaScript/jQuery, SQL Server, and LINQ to SQL. 
 *	Developed set of API to be used by the User interface and Desktop App, that are to be used for a drawing system and   customer registration system.
 *	Created new Database tables and stored procedures. 
 *	Updated and maintain existing Database’s tables and stored procedures.
